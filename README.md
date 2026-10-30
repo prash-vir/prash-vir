@@ -1,5 +1,3 @@
-# prash_vir
-
 # Prashast Vir
 
 🎓 Oxford graduate in Mathematics and Statistics
@@ -10,4 +8,4 @@
 
 🔒 Everything I’m building here is for my own startup or trading, so my repositories are private.
 
-💬 Always happy to chat about any of the above — reach me at [prashast.vir@gmail.com]
+💬 Always happy to chat about any of the above — reach me at [prashast.vir@gmail.com](mailto:prashast.vir@gmail.com)
